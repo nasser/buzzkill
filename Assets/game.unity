@@ -299,6 +299,8 @@ MonoBehaviour:
   rightHand: {fileID: 768386562}
   normalHandDistance: 2.5
   clapHandDistance: .5
+  minimumClapLength: .100000001
+  timeSinceClapStarted: 0
 --- !u!82 &170224866
 AudioSource:
   m_ObjectHideFlags: 0
